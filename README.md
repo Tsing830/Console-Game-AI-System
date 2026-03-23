@@ -1,4 +1,4 @@
-# jiXun
+# Console
 
 A Unity-based 3D interactive simulation project focused on **Behavior Tree AI**, **stack-based UI management**, **data-driven gameplay**, and **extensible scene architecture**.
 
