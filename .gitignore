@@ -1,0 +1,42 @@
+﻿# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity auto-generated solution and project files
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+
+# Visual Studio / VS Code / Rider caches
+.vs/
+.idea/
+.vscode/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity package lock artifacts (keep manifest and packages-lock)
+# (intentionally not ignoring Packages/manifest.json and Packages/packages-lock.json)
+
+# Keep documentation and asset files by default.
+# No generic ignore rules for *.pdf, *.docx, *.xlsx, *.png, *.fbx, etc.
